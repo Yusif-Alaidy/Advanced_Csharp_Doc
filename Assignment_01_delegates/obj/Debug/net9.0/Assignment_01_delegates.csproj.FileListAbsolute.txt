@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\bin\Debug\net9.0\Assignment_01_delegates.exe
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\bin\Debug\net9.0\Assignment_01_delegates.deps.json
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\bin\Debug\net9.0\Assignment_01_delegates.runtimeconfig.json
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\bin\Debug\net9.0\Assignment_01_delegates.dll
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\bin\Debug\net9.0\Assignment_01_delegates.pdb
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\obj\Debug\net9.0\Assignment_01_delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\obj\Debug\net9.0\Assignment_01_delegates.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\obj\Debug\net9.0\Assignment_01_delegates.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\obj\Debug\net9.0\Assignment_01_delegates.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\obj\Debug\net9.0\Assignment_01_delegates.dll
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\obj\Debug\net9.0\refint\Assignment_01_delegates.dll
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\obj\Debug\net9.0\Assignment_01_delegates.pdb
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\obj\Debug\net9.0\Assignment_01_delegates.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\obj\Debug\net9.0\ref\Assignment_01_delegates.dll
