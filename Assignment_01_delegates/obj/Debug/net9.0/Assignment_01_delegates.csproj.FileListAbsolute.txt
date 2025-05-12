@@ -12,3 +12,4 @@ C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\obj\Debug\
 C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\obj\Debug\net9.0\Assignment_01_delegates.pdb
 C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\obj\Debug\net9.0\Assignment_01_delegates.genruntimeconfig.cache
 C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\obj\Debug\net9.0\ref\Assignment_01_delegates.dll
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Assignment_01_delegates\obj\Debug\net9.0\Assignment_01_delegates.sourcelink.json
