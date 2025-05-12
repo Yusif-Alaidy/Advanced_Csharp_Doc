@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_02_event\bin\Debug\net9.0\Lesson_02_event.exe
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_02_event\bin\Debug\net9.0\Lesson_02_event.deps.json
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_02_event\bin\Debug\net9.0\Lesson_02_event.runtimeconfig.json
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_02_event\bin\Debug\net9.0\Lesson_02_event.dll
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_02_event\bin\Debug\net9.0\Lesson_02_event.pdb
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_02_event\obj\Debug\net9.0\Lesson_02_event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_02_event\obj\Debug\net9.0\Lesson_02_event.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_02_event\obj\Debug\net9.0\Lesson_02_event.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_02_event\obj\Debug\net9.0\Lesson_02_event.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_02_event\obj\Debug\net9.0\Lesson_02_event.sourcelink.json
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_02_event\obj\Debug\net9.0\Lesson_02_event.dll
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_02_event\obj\Debug\net9.0\refint\Lesson_02_event.dll
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_02_event\obj\Debug\net9.0\Lesson_02_event.pdb
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_02_event\obj\Debug\net9.0\Lesson_02_event.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_02_event\obj\Debug\net9.0\ref\Lesson_02_event.dll

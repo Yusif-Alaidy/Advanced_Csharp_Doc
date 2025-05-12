@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\Advanced_Csharp_Doc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CA61EDE-BD37-41F9-8520-A4D0F9056C71}|Assignment_01_delegates\\Assignment_01_delegates.csproj|c:\\users\\lenovo\\downloads\\advanced_csharp_doc\\assignment_01_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA61EDE-BD37-41F9-8520-A4D0F9056C71}|Assignment_01_delegates\\Assignment_01_delegates.csproj|solutionrelative:assignment_01_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D163B7E3-8029-47B0-A9C7-0B0C4BC1D801}|Lesson_02_event\\Lesson_02_event.csproj|c:\\users\\lenovo\\downloads\\advanced_csharp_doc\\lesson_02_event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D163B7E3-8029-47B0-A9C7-0B0C4BC1D801}|Lesson_02_event\\Lesson_02_event.csproj|solutionrelative:lesson_02_event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CA61EDE-BD37-41F9-8520-A4D0F9056C71}|Assignment_01_delegates\\Assignment_01_delegates.csproj|c:\\users\\lenovo\\downloads\\advanced_csharp_doc\\assignment_01_delegates\\paymentprocessors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA61EDE-BD37-41F9-8520-A4D0F9056C71}|Assignment_01_delegates\\Assignment_01_delegates.csproj|solutionrelative:assignment_01_delegates\\paymentprocessors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA61EDE-BD37-41F9-8520-A4D0F9056C71}|Assignment_01_delegates\\Assignment_01_delegates.csproj|c:\\users\\lenovo\\downloads\\advanced_csharp_doc\\assignment_01_delegates\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA61EDE-BD37-41F9-8520-A4D0F9056C71}|Assignment_01_delegates\\Assignment_01_delegates.csproj|solutionrelative:assignment_01_delegates\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{480B77B0-1DB6-40D3-8CB1-31D15254869B}|Lesson_01_delegates\\Lesson_01_delegates.csproj|c:\\users\\lenovo\\downloads\\advanced_csharp_doc\\lesson_01_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{480B77B0-1DB6-40D3-8CB1-31D15254869B}|Lesson_01_delegates\\Lesson_01_delegates.csproj|solutionrelative:lesson_01_delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D163B7E3-8029-47B0-A9C7-0B0C4BC1D801}|Lesson_02_event\\Lesson_02_event.csproj|c:\\users\\lenovo\\downloads\\advanced_csharp_doc\\lesson_02_event\\loginclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D163B7E3-8029-47B0-A9C7-0B0C4BC1D801}|Lesson_02_event\\Lesson_02_event.csproj|solutionrelative:lesson_02_event\\loginclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,53 +27,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PaymentProcessors.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Advanced_Csharp_Doc\\Assignment_01_delegates\\PaymentProcessors.cs",
-              "RelativeDocumentMoniker": "Assignment_01_delegates\\PaymentProcessors.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Advanced_Csharp_Doc\\Assignment_01_delegates\\PaymentProcessors.cs",
-              "RelativeToolTip": "Assignment_01_delegates\\PaymentProcessors.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBUAAAAxAAAAAAAAAA==",
+              "Title": "LoginClass.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Advanced_Csharp_Doc\\Lesson_02_event\\LoginClass.cs",
+              "RelativeDocumentMoniker": "Lesson_02_event\\LoginClass.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Advanced_Csharp_Doc\\Lesson_02_event\\LoginClass.cs",
+              "RelativeToolTip": "Lesson_02_event\\LoginClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:15:23.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CheckoutService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Advanced_Csharp_Doc\\Assignment_01_delegates\\CheckoutService.cs",
-              "RelativeDocumentMoniker": "Assignment_01_delegates\\CheckoutService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Advanced_Csharp_Doc\\Assignment_01_delegates\\CheckoutService.cs",
-              "RelativeToolTip": "Assignment_01_delegates\\CheckoutService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvwwAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:14:34.493Z",
+              "WhenOpened": "2025-05-12T18:40:02.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Advanced_Csharp_Doc\\Assignment_01_delegates\\Program.cs",
-              "RelativeDocumentMoniker": "Assignment_01_delegates\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Advanced_Csharp_Doc\\Assignment_01_delegates\\Program.cs",
-              "RelativeToolTip": "Assignment_01_delegates\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Advanced_Csharp_Doc\\Lesson_02_event\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson_02_event\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Advanced_Csharp_Doc\\Lesson_02_event\\Program.cs",
+              "RelativeToolTip": "Lesson_02_event\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:42:02.355Z",
+              "WhenOpened": "2025-05-12T15:52:28.552Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Advanced_Csharp_Doc\\Lesson_01_delegates\\Program.cs",
-              "RelativeDocumentMoniker": "Lesson_01_delegates\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Advanced_Csharp_Doc\\Lesson_01_delegates\\Program.cs",
-              "RelativeToolTip": "Lesson_01_delegates\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwAcAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T14:34:58.348Z"
             }
           ]
         }
