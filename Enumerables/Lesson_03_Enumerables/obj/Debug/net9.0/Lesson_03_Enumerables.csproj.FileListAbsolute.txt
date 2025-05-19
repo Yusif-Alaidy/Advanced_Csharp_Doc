@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_03_Enumerables\bin\Debug\net9.0\Lesson_03_Enumerables.exe
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_03_Enumerables\bin\Debug\net9.0\Lesson_03_Enumerables.deps.json
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_03_Enumerables\bin\Debug\net9.0\Lesson_03_Enumerables.runtimeconfig.json
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_03_Enumerables\bin\Debug\net9.0\Lesson_03_Enumerables.dll
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_03_Enumerables\bin\Debug\net9.0\Lesson_03_Enumerables.pdb
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_03_Enumerables\obj\Debug\net9.0\Lesson_03_Enumerables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_03_Enumerables\obj\Debug\net9.0\Lesson_03_Enumerables.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_03_Enumerables\obj\Debug\net9.0\Lesson_03_Enumerables.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_03_Enumerables\obj\Debug\net9.0\Lesson_03_Enumerables.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_03_Enumerables\obj\Debug\net9.0\Lesson_03_Enumerables.sourcelink.json
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_03_Enumerables\obj\Debug\net9.0\Lesson_03_Enumerables.dll
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_03_Enumerables\obj\Debug\net9.0\refint\Lesson_03_Enumerables.dll
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_03_Enumerables\obj\Debug\net9.0\Lesson_03_Enumerables.pdb
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_03_Enumerables\obj\Debug\net9.0\Lesson_03_Enumerables.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\Advanced_Csharp_Doc\Lesson_03_Enumerables\obj\Debug\net9.0\ref\Lesson_03_Enumerables.dll

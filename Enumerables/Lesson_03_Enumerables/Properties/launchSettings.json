@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Lesson_03_Enumerables": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
