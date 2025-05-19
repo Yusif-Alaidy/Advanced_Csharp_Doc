@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_02_event", "Lesson_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_02_event", "Assignment_02_event\Assignment_02_event.csproj", "{143846C7-FFD0-45D7-80EE-3BD423476DA6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Event", "Event", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "delegates", "delegates", "{0A927F23-3DCC-40C6-A073-E156186081B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +40,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{480B77B0-1DB6-40D3-8CB1-31D15254869B} = {0A927F23-3DCC-40C6-A073-E156186081B2}
+		{1CA61EDE-BD37-41F9-8520-A4D0F9056C71} = {0A927F23-3DCC-40C6-A073-E156186081B2}
+		{D163B7E3-8029-47B0-A9C7-0B0C4BC1D801} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{143846C7-FFD0-45D7-80EE-3BD423476DA6} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95C947D3-403B-466A-A22F-D99343643463}
