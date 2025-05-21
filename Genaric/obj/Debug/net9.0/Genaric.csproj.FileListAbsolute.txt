@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Genaric\bin\Debug\net9.0\Genaric.exe
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Genaric\bin\Debug\net9.0\Genaric.deps.json
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Genaric\bin\Debug\net9.0\Genaric.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Genaric\bin\Debug\net9.0\Genaric.dll
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Genaric\bin\Debug\net9.0\Genaric.pdb
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Genaric\obj\Debug\net9.0\Genaric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Genaric\obj\Debug\net9.0\Genaric.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Genaric\obj\Debug\net9.0\Genaric.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Genaric\obj\Debug\net9.0\Genaric.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Genaric\obj\Debug\net9.0\Genaric.sourcelink.json
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Genaric\obj\Debug\net9.0\Genaric.dll
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Genaric\obj\Debug\net9.0\refint\Genaric.dll
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Genaric\obj\Debug\net9.0\Genaric.pdb
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Genaric\obj\Debug\net9.0\Genaric.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Genaric\obj\Debug\net9.0\ref\Genaric.dll
