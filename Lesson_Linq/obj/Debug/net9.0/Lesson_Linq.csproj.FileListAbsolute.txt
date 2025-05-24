@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Lesson_Linq\bin\Debug\net9.0\Lesson_Linq.exe
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Lesson_Linq\bin\Debug\net9.0\Lesson_Linq.deps.json
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Lesson_Linq\bin\Debug\net9.0\Lesson_Linq.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Lesson_Linq\bin\Debug\net9.0\Lesson_Linq.dll
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Lesson_Linq\bin\Debug\net9.0\Lesson_Linq.pdb
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Lesson_Linq\obj\Debug\net9.0\Lesson_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Lesson_Linq\obj\Debug\net9.0\Lesson_Linq.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Lesson_Linq\obj\Debug\net9.0\Lesson_Linq.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Lesson_Linq\obj\Debug\net9.0\Lesson_Linq.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Lesson_Linq\obj\Debug\net9.0\Lesson_Linq.sourcelink.json
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Lesson_Linq\obj\Debug\net9.0\Lesson_Linq.dll
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Lesson_Linq\obj\Debug\net9.0\refint\Lesson_Linq.dll
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Lesson_Linq\obj\Debug\net9.0\Lesson_Linq.pdb
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Lesson_Linq\obj\Debug\net9.0\Lesson_Linq.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Advanced_Csharp_Doc\Lesson_Linq\obj\Debug\net9.0\ref\Lesson_Linq.dll
